@@ -42,8 +42,7 @@ Bibtex:
 
 ## Folder content:
 
-- `ecg_tracings.hdf5`:  this file is not available on github repository because of the size. But it can be downloaded
-[here](https://doi.org/10.5281/zenodo.3625006). The HDF5 file containing a single dataset named `tracings`. This dataset is a 
+- `ecg_tracings.hdf5`:  The HDF5 file containing a single dataset named `tracings`. This dataset is a 
 `(827, 4096, 12)` tensor. The first dimension correspond to the 827 different exams from different 
 patients; the second dimension correspond to the 4096 signal samples; the third dimension to the 12
 different leads of the ECG exams in the following order:
