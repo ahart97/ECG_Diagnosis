@@ -4,3 +4,4 @@ data/gold_standard.csv
 *.csv
 *.csv
 data/annotations/cardiologist1.csv
+*.csv
