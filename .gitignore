@@ -2,3 +2,5 @@
 data/gold_standard.csv
 *.hdf5
 *.csv
+*.csv
+data/annotations/cardiologist1.csv
