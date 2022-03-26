@@ -5,3 +5,4 @@ data/gold_standard.csv
 *.csv
 data/annotations/cardiologist1.csv
 *.csv
+*.pickle
