@@ -6,3 +6,4 @@ data/gold_standard.csv
 data/annotations/cardiologist1.csv
 *.csv
 *.pickle
+*.xlsx
