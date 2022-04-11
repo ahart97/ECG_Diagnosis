@@ -1,10 +1,3 @@
 
+data/ecg_tracings.hdf5
 data/gold_standard.csv
-*.hdf5
-*.csv
-*.csv
-data/annotations/cardiologist1.csv
-*.csv
-*.pickle
-*.xlsx
-*.png
