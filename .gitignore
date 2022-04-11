@@ -7,3 +7,4 @@ data/annotations/cardiologist1.csv
 *.csv
 *.pickle
 *.xlsx
+*.png
